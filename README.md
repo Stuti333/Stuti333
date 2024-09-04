@@ -2,11 +2,11 @@
 <h1 align="center">Hi 👋, I'm Stuti Sharma</h1>
 <h3 align="center">A Tech Fanatic</h3>
 <img align="right" alt="coding" width="300" src="https://media1.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=6c09b952hh3k9sp7f0zdl21yrosekwfkhvw8ltlledcafiuk&ep=v1_gifs_search&rid=giphy.gif&ct=g">
-- 🔭 I’m currently working on some intriguing projects
 
+- 🔭 I’m currently working on some intriguing projects
 - 💬 Ask and share about Tech! Lets help each other
 - 📫 How to reach me stutiemailbox@gmail.com
-- 👨‍💻 All of my projects are available at *https://github.com/Stuti333*
+- 👨‍💻 All of my projects are available at https://github.com/Stuti333
 
 <div> <a href="https://www.linkedin.com/in/stuti-sharma-94057122b" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://github.com/Stuti333" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
