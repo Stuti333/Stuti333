@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 <h1 align="center">Hi 👋, I'm Stuti Sharma</h1>
 <h3 align="center">A Tech Fanatic</h3>
-<img align="right" alt="coding" width="300" src="https://media1.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=6c09b952hh3k9sp7f0zdl21yrosekwfkhvw8ltlledcafiuk&ep=v1_gifs_search&rid=giphy.gif&ct=g">
+<img align="right" alt="coding" width="300" src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif">
 
 - 🔭 I’m currently working on some intriguing projects
 - 💬 Ask and share about Tech! Lets help each other
